@@ -1,7 +1,7 @@
 ## Hi there 👋
--Recently graduated with a masters in bioinformatics, improving my python coding skills with some projects here and there.
--Interested in: machine learning and AI, cancer biology, protein structures and drug discovery :]
--Reach me at: tastytrifle@gmail.com
+ Recently graduated with a masters in bioinformatics, improving my python coding skills with some projects here and there.
+ Interested in: machine learning and AI, cancer biology, protein structures and drug discovery :]
+ Reach me at: tastytrifle@gmail.com
 <!--
 **trifle99/trifle99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
